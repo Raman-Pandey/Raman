@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-@author: Abhilash Raj
 
 Unit Testing module for Steel Eye Assigment
 """
