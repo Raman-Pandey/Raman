@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author: Abhilash Raj
+
 
 Main controller module to perform the required steps
 """
