@@ -1,5 +1,5 @@
 """
-@author: Abhilash Raj
+
 
 Module to create logger for all modules used
 and log file directory
